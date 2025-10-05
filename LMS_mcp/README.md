@@ -128,7 +128,3 @@ pip install fastmcp
 ```
 
 ---
-
-## License
-
-MIT License — free to use and extend for personal or organizational projects.
